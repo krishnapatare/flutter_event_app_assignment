@@ -1,21 +1,13 @@
-<<<<<<< HEAD
-# flutter_event_app_assignment
-Internship Assignment for 7 Seers - Flutter Event Booking App
-=======
-# seven_seers_task
+# Seven Seers Task - Flutter
 
-A new Flutter project.
+## How to run
+1. flutter pub get
+2. flutter run
 
-## Getting Started
+## Build
+- Android AAB: flutter build appbundle --release
 
-This project is a starting point for a Flutter application.
+## Notes
+- Mock data in assets/events.json
+- Improvements planned: add real API, animations, tests.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> f506958 (chore: initial flutter project)
